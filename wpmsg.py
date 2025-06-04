@@ -1,6 +1,6 @@
 import pywhatkit
 try:
-  pywhatkit.sendwhatmsg("+919937081663", 
+  pywhatkit.sendwhatmsg("+91xxxxxxxxxxx", 
                         "Hello ,I'm ASTHA . Nice to meet you.", 
                         0, 24)
   print("Successfully Sent!")
